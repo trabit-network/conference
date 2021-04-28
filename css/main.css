@@ -716,7 +716,7 @@ nav {
    HEADER
    ========================================================================== */
 .header {
-  background-image: url('../img/trabit_background.png');
+  background-image: url('https://homepages.cae.wisc.edu/~ece533/images/airplane.png');
   background-color: #2b2b2b;
   background-repeat: no-repeat;
   background-position: center;
