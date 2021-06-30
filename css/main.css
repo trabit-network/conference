@@ -440,7 +440,7 @@ nav {
   font-weight: bolder;
 }
 .schedule-tbl .speaker-photo {
-  position: relative;
+  position: fixed;
   width: 40px;
   height: 40px;
   float: left;
